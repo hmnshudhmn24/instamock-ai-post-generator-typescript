@@ -56,7 +56,3 @@ We recommend deploying on [Vercel](https://vercel.com/):
 ```bash
 vercel
 ```
-
-## 📄 License
-
-MIT
