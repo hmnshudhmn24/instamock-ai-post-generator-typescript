@@ -1,21 +1,23 @@
-# 📸 InstaMock: AI Social Media Post Generator
+# 📸 InstaMock: AI Social Media Post Generator (TypeScript)
 
-Generate realistic mockups for Instagram, Twitter, and LinkedIn with AI-generated post content.
+InstaMock is an AI-powered tool that helps designers, marketers, and developers quickly generate realistic-looking social media post mockups for **Instagram**, **Twitter**, and **LinkedIn** — complete with AI-generated content using OpenAI's GPT API.
 
-## 🚀 Features
 
-- Instagram, Twitter, and LinkedIn UI themes
-- GPT-powered post generation (OpenAI API)
-- Editable UI and download as PNG
-- Fully responsive design (Tailwind CSS)
-- Built with Next.js and TypeScript
+## ✨ Features
 
-## 🛠️ Tech Stack
+- 🎨 Realistic UI mockups for **Instagram**, **Twitter**, and **LinkedIn**
+- 🧠 GPT-powered smart post generator (OpenAI API)
+- 🎯 Select target audience, tone, and platform
+- 💾 Download mockups as **PNG** files
+- ⚡ Built with **TypeScript**, **Next.js 14 App Router**, **Tailwind CSS**
+- 🧱 Component-based structure for easy customization
 
-- TypeScript + Next.js
-- Tailwind CSS
-- OpenAI API
-- html2canvas for PNG download
+
+## 📸 Screenshot
+
+> ![screenshot](public/demo.png)  
+> *Demo preview of InstaMock's post generator UI*
+
 
 ## 📦 Installation
 
