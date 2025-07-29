@@ -13,12 +13,6 @@ InstaMock is an AI-powered tool that helps designers, marketers, and developers 
 - 🧱 Component-based structure for easy customization
 
 
-## 📸 Screenshot
-
-> ![screenshot](public/demo.png)  
-> *Demo preview of InstaMock's post generator UI*
-
-
 ## 📦 Installation
 
 ```bash
